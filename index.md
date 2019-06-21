@@ -1,6 +1,6 @@
 <h1>Checkout 23<h1>
 <h2>RAMANATHAN, JAI [29007016102964],The following items are checked out:(<a href="https://drive.google.com/file/d/1isMP-hBFqpP-oPnYa4DiqBHg0lQcpF7A/view?usp=sharing">pdf</a>)(<a href="https://drive.google.com/file/d/1OvyoGeRrZ8H5jCFsCfDMsLs7ouO_0CaX/view?usp=sharing">pdf</a>)
-<table border="1">
+<table border="5">
 <tbody>
 <tr>
 <th>Title</th>
